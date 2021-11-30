@@ -1,2 +1,2 @@
-# second_day_workshop
-second day information in workshop
+#### For Cloning the files
+     git clone https://github.com/Svkrishna26/loyola_github_workshop.git

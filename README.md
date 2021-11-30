@@ -11,3 +11,7 @@
       git add .
       git status
       git push milkyway master
+#### For getting commit timings(Number of times including user credentials)
+      git log
+#### For getting commit timings in one line(Without User credentials)
+      git log --oneline

@@ -4,3 +4,10 @@
      exit
 #### For opening Notepad through Git Bash
       notepad example2.txt
+#### To Pull The Files into Folder
+      git pull milkyway master
+      git status
+      git commit -m "After Changes"
+      git add .
+      git status
+      git push milkyway master
